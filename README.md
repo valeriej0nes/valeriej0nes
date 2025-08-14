@@ -18,6 +18,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=valeriej0nes&icon=5&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=valeriej0nes&icon=5&color=0)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
